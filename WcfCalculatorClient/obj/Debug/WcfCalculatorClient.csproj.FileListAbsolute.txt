@@ -1,0 +1,6 @@
+c:\users\gs\documents\visual studio 2015\Projects\CalculatorService\WcfCalculatorClient\bin\Debug\WcfCalculatorClient.exe.config
+c:\users\gs\documents\visual studio 2015\Projects\CalculatorService\WcfCalculatorClient\bin\Debug\WcfCalculatorClient.exe
+c:\users\gs\documents\visual studio 2015\Projects\CalculatorService\WcfCalculatorClient\bin\Debug\WcfCalculatorClient.pdb
+c:\users\gs\documents\visual studio 2015\Projects\CalculatorService\WcfCalculatorClient\obj\Debug\WcfCalculatorClient.csprojResolveAssemblyReference.cache
+c:\users\gs\documents\visual studio 2015\Projects\CalculatorService\WcfCalculatorClient\obj\Debug\WcfCalculatorClient.exe
+c:\users\gs\documents\visual studio 2015\Projects\CalculatorService\WcfCalculatorClient\obj\Debug\WcfCalculatorClient.pdb

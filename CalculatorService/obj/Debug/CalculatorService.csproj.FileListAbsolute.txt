@@ -1,0 +1,6 @@
+c:\users\gs\documents\visual studio 2015\Projects\CalculatorService\CalculatorService\bin\CalculatorService.dll.config
+c:\users\gs\documents\visual studio 2015\Projects\CalculatorService\CalculatorService\bin\CalculatorService.dll
+c:\users\gs\documents\visual studio 2015\Projects\CalculatorService\CalculatorService\bin\CalculatorService.pdb
+c:\users\gs\documents\visual studio 2015\Projects\CalculatorService\CalculatorService\obj\Debug\CalculatorService.csprojResolveAssemblyReference.cache
+c:\users\gs\documents\visual studio 2015\Projects\CalculatorService\CalculatorService\obj\Debug\CalculatorService.dll
+c:\users\gs\documents\visual studio 2015\Projects\CalculatorService\CalculatorService\obj\Debug\CalculatorService.pdb
